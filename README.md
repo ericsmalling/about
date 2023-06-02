@@ -65,3 +65,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
   - **Kevin Alvarez (aka CrazyMax)** - [@crazyws](https://twitter.com/crazyws) - [Blog](https://crazymax.dev/)
   - **Ajeet Rania** - [@ajeetsraina](https://twitter.com/ajeetsraina) - [Blog](https://collabnix.com/)
+  - **Eric Smalling** - [@ericsmalling](https://twitter.com/ericsmalling) - [Blog](https://ericsmalling.com)
